@@ -3,10 +3,10 @@ server:
 spring:
   config:
     import:
-      - application_qa.yml
-      - application_prod.yml
+      - accounts-qa.yml
+      - accounts-prod.yml
   profiles:
-    active: "prod"
+    active: "default"
   application:
     name: 'ACCOUNTS_MS'
   datasource:
@@ -27,7 +27,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
-    name: "John Doe - Developer"
+    name: "John Doe - Default"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1234
