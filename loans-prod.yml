@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Johnny prod"
+    email: "john@QA.com"
+  onCallSupport:
+    - (555) 555-1279
+    - (555) 523-1379
