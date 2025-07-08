@@ -5,10 +5,10 @@ spring:
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank accounts related Prod1 APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
-    name: "Johnny Prod1"
-    email: "john@Prod1.com"
+    name: "Johnny Production"
+    email: "john@Production.com"
   onCallSupport:
     - (555) 555-1235
     - (555) 523-1345
