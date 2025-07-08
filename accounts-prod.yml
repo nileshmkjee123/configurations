@@ -5,7 +5,7 @@ spring:
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIs "
+  message: "Welcome to EazyBank accounts related PreProd APIs "
   contactDetails:
     name: "Johnny Production"
     email: "john@Production.com"
