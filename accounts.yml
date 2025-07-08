@@ -25,7 +25,7 @@ spring:
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related localeee APIs "
   contactDetails:
     name: "John Doe - Default"
     email: "{cipher}801205b32641e21fa42800f14baee03263fe4c608e90ac6a567d1d6b47c33f1b9a256a44429f9270bd7d9087dd0ba350"
