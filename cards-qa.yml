@@ -1,9 +1,9 @@
 build:
   version: "2.0"
 cards:
-  message: "Welcome to EazyBank cards related Quality Analyst APIs "
+  message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
-    name: "Johnny QA"
+    name: "Johnny_QA"
     email: "john@QA.com"
   onCallSupport:
     - (555) 555-1279
