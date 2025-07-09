@@ -6,7 +6,7 @@ spring:
       - accounts-qa.yml
       - accounts-prod.yml
   profiles:
-    active: "default"
+    active: "qa"
   application:
     name: 'ACCOUNTS_MS'
   datasource:
