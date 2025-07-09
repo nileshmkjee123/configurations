@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank accounts related ProdWebHook APIs "
+  message: "Welcome to EazyBank accounts related ProdHook APIs "
   contactDetails:
     name: "Johnny Production"
     email: "john@Production.com"
